@@ -1,0 +1,16 @@
+Package: com.sudocat.noads4yahoomail
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: sudocat <sudocat.tweaks@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.sudocat.noads4yahoomail_1.0_iphoneos-arm.deb
+Size: 5716
+MD5sum: 4879fb732a183af7c09d2ffff8b59ff2
+SHA1: a16c2219840d2b8ad491f9b23701c4c8f575f4b5
+SHA256: 969f31a312d7e44397febaa2060b138f5dd18ad83d33d09125f4a845aae7d880
+Section: Tweaks
+Description: Removes all Ads from Yahoo Mail app. For use with Yahoo Mail app from App Store. No options to configure.
+Author: sudocat <sudocat.tweaks@gmail.com>
+Depiction: https://sudocat.github.io/depictions/?p=com.sudocat.noads4yahoomail
+Name: NoAds4YahooMail

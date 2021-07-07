@@ -1,0 +1,29 @@
+<package>
+	<id>com.sudocat.noads4yahoomail</id>
+	<name>NoAds4YahooMail</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Remove all ads on Yahoo Mail app</shortDescription>
+	<descriptionlist>
+		<description>Removes all ads from Yahoo Mail app.</description>
+		<description>For use with Yahoo Mail app from App Store.</description>
+		<description>No options to configure.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
