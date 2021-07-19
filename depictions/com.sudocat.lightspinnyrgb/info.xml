@@ -13,8 +13,22 @@
 	<shortDescription>Original respring logo in color!</shortDescription>
 	<descriptionlist>
 		<description>No more boring black and white.</description>
-		<description>Original respring logo in rotating RGB color!</description>
+		<description>Original respring logo in rotating RGB colors!</description>
 	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Preview</description>
+			<image>lightspinnyrgb1.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>lightspinnyrgb2.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>lightspinnyrgb3.png</image>
+		</screenshot>
+	</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
