@@ -15,7 +15,7 @@
 		<description>Usage: Type the following command(s) into NewTerm or MobileTerminal and follow the menu interface</description>
 		<description>debra</description>
 		<description>debra list</description>
-		<description>debra <packagename></description>
+		<description>debra 'packagename'</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
