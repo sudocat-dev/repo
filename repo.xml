@@ -1,7 +1,7 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Sudocat</name>
+			<name>Sudo</name>
 			<url>https://sudocat-dev.github.io/repo</url>
 			<iconclass>fa fa-thumbs-up</iconclass>
 		</link>

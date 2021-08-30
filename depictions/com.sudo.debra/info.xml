@@ -1,0 +1,48 @@
+<package>
+	<id>com.sudo.debra</id>
+	<name>Debra</name>
+	<version>1.0.8</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Deb Repackaging Assistant. Simply type 'debra' into a terminal.</shortDescription>
+	<descriptionlist>
+		<description>Usage: Type the following command(s) into NewTerm or MobileTerminal and follow the menu interface</description>
+		<description>debra</description>
+		<description>debra list</description>
+		<description>debra <packagename></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Preview</description>
+			<image>debra1.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>debra2.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>debra3.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>debra4.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
