@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.1</version>
+		<change>Re-spaced layout to allow for slightly larger font size</change>
+		<change>Added Recommended Font packages for use with NewTerm</change>
+		<change>Other minor fixes</change>
 		<version>1.0.9</version>
 		<change>Fixed For loop on files and directories with spaces</change>
 	</changes>

@@ -1,7 +1,7 @@
 <package>
 	<id>com.sudo.debra</id>
 	<name>Debra</name>
-	<version>1.0.9</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -32,7 +32,14 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Fixed For loop on files and directories with spaces</change>
+		<changes>
+			<version>1.1</version>
+			<change>Re-spaced layout to allow for slightly larger font size</change>
+			<change>Added Recommended Font packages for use with NewTerm</change>
+			<change>Other minor fixes</change>
+			<version>1.0.9</version>
+			<change>Fixed For loop on files and directories with spaces</change>
+		</changes>
 	</changelog>
 	<links>
 		<link>
