@@ -9,6 +9,11 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
+		<package>bash (>= 5.0.3-2)</package>
+		<package>coreutils (>= 8.31-1)</package>
+		<package>grep (>= 3.1-1)</package>
+		<package>sed (>= 4.5-1)</package>
+		<package>gawk (>= 4.2.1-1)</package>
 	</dependencies>
 	<shortDescription>Deb Repackaging Assistant. Simply type 'debra' into a terminal.</shortDescription>
 	<descriptionlist>
