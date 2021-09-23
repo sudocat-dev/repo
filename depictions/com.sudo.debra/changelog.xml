@@ -1,13 +1,13 @@
 <changelog>
-	<version>1.6</version>
-	  <changesList>
+	<changesList>
+	  <version>1.6</version>
 		  <change>Added filter options when displaying lists 1 and 4</change>
 		  <change>Removed force root test from v1.5</change>
-	  </changesList>
-	<version>1.5</version>
-	    <changesList>
-		    <change>Testing force root</change>
-			</changesList>
+	</changesList>
+	<changesList>
+		<version>1.5</version>
+		  <change>Testing force root</change>
+	</changesList>
 		<version>1.4</version>
 		<change>Fixed a redirect issue</change>
 		<change>New Colors and Layout</change>
