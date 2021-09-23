@@ -42,9 +42,11 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
+		<changesList>
 			<version>1.6</version>
-			<change>Added filter options when displaying lists 1 and 4</change>
-			<change>Removed force root test from v1.5</change>
+			  <change>Added filter options when displaying lists 1 and 4</change>
+			  <change>Removed force root test from v1.5</change>
+		</changesList>
 	</changelog>
 	<links>
 		<link>
