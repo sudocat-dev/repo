@@ -1,4 +1,5 @@
 <changelog>
+	<changesList>
 		<version>1.6</version>
 		<change>Added filter options when displaying lists 1 and 4</change>
 		<change>Removed force root test from v1.5</change>
@@ -22,4 +23,5 @@
 		<change>Other minor fixes</change>
 		<version>1.0.9</version>
 		<change>Fixed For loop on files and directories with spaces</change>
+	</changesList>
 </changelog>
