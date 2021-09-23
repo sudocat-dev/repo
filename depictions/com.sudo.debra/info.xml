@@ -1,7 +1,7 @@
 <package>
 	<id>com.sudo.debra</id>
 	<name>Debra</name>
-	<version>1.4</version>
+	<version>1.6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -43,6 +43,11 @@
 	</screenshots>
 	<changelog>
 		<changes>
+			<version>1.6</version>
+			<change>Added filter options when displaying lists 1 and 4</change>
+			<change>Removed force root test from v1.5</change>
+			<version>1.5</version>
+			<change>Testing force root</change>
 			<version>1.4</version>
 			<change>Fixed a redirect slip</change>
 			<change>New Colors and Layout</change>
