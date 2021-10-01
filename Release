@@ -1,18 +1,18 @@
-Origin: Sudo's Repo
-Label: Sudo's Repo
+Origin: Delete this Repo. SUDO'S NEW REPO: https://sudo9000.github.io/
+Label: Delete this Repo. SUDO'S NEW REPO: https://sudo9000.github.io/
 Suite: stable
 Version: 1.0
 Codename: Sudo
 Architectures: iphoneos-arm
 Components: main
-Description: Tweaks for jailbroken devices
+Description: Delete this Repo. SUDO'S NEW REPO: https://sudo9000.github.io/
 MD5Sum:
- 5bb5c75dc86198d97c0fa0ebacbc6936 1958 Packages
- c3853ea94fc2e8bc7ef997034c56abd2 999 Packages.bz2
- 1fb8132c19e69a037fc543be0d3ba32a 884 Packages.gz
- f1de20be40d94b32417c73ebe07df4ad 882 Packages.zst
+ d41d8cd98f00b204e9800998ecf8427e 0 Packages
+ 4059d198768f9f8dc9372dc1c54bc3c3 14 Packages.bz2
+ 211e020a41195ce530b68a0af4761f8e 29 Packages.gz
+ 5d80401e01d33084c65e94f93351e94c 13 Packages.zst
 SHA256:
- bf3fbbb49f01c8bfad63940c3f893f967bb4371e4bade2bc2222a04f059961dd 1958 Packages
- fda09e40a394bd7af43b93aa31bc6c098cb1d671a60af197ac54f27eeaf9dd65 999 Packages.bz2
- 32a1ca4206c538bb5c33b6cd7f1a8332ffafa0230b432d09014d1743be305af8 884 Packages.gz
- 1e875602adbe0846f04cca7eb1f5b286cd82f41852239d271af8f7c28bd0c675 882 Packages.zst
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 Packages
+ d3dda84eb03b9738d118eb2be78e246106900493c0ae07819ad60815134a8058 14 Packages.bz2
+ 7a10b1f151893ec7f47e2b8516b7e5ff74d73204252599ad9514e4d48d4878ef 29 Packages.gz
+ f96deff1816083fdff8bc3e46c3fe6ca46a6bb49f4d5a00627616c13237a512c 13 Packages.zst
